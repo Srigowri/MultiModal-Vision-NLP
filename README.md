@@ -1,4 +1,4 @@
-# MultiModalModels
+# Multi Modal Models for vision and language tasks
 Details of interesting multimodal architecture for vision and language
 
 To do:
